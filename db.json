@@ -1,1 +1,8 @@
-
+{
+  "id": 1,
+  "title": "Sample Product",
+  "price": 19.99,
+  "category": "Electronics",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "image": "https://example.com/sample-image.jpg"
+}
