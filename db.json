@@ -1,18 +1,19 @@
-{
-  
-  "id": 1,
-  "title": "Sample Product",
-  "price": 19.99,
-  "category": "Electronics",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-  "image": "https://example.com/sample-image.jpg"
- }
-{
-  "id": 1,
-  "title": "Sample Product",
-  "price": 1.99,
-  "category": "Electronics",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-  "image": "https://example.com/sample-image.jpg"
- }
+[
+  {
+    "id": 1,
+    "title": "Sample Product",
+    "price": 19.99,
+    "category": "Electronics",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://example.com/sample-image.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Another Sample Product",
+    "price": 1.99,
+    "category": "Electronics",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://example.com/sample-image.jpg"
+  }
+]
 
